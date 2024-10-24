@@ -1,0 +1,41 @@
+a{
+    color: white;
+}
+img{
+    img;
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: block;
+    font-weight: bold;
+}
+.navbar div a{
+    font-weight: bold;
+    padding-left: 85px;
+    
+    
+}
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h2{
+    margin-left: 100px;
+}
+img{
+    margin-left: 100px;
+    
+}
+div img{
+    margin-left: 130px;
+}
+div p{
+    margin-left: 10px;
+    margin-right: 200px;
+}
+img{
+    height:200px ;
+    width: 150px;
+}
